@@ -69,6 +69,8 @@ export default {
 }
 ```
 
+Note: when you want to import `Multiselect.vue` and you bundle with Browserify you need to define the `vueify` *global* transform in your build.
+
 ## Roadmap:
 
 * Grouping
